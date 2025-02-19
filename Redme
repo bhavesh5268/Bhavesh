@@ -1,0 +1,16 @@
+Backend Web Site -
+
+https://formspree.io/
+
+
+How To Use
+
+<form action="https://formspree.io/f/{form_id}" method="post">
+ <input type="hidden" name="access_key" value="2513c6c3-efed-43cd-a992-66ec05cb4b3f">
+
+  <label for="email">bhaveshpare@gmail.com</label>
+  <input name="Email" id="email" type="email">
+  
+  <button type="submit">Submit</button>
+  
+</form>
